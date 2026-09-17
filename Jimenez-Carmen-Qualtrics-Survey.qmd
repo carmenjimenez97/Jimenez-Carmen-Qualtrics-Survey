@@ -1,0 +1,43 @@
+---
+title: "Qualtrics Survey Rough Draft"
+author: "Carmen Lia Jimenez Rodriguez"
+date: today
+format:
+  html:
+    toc: true
+    embed-resources: true
+editor: visual
+---
+
+# Survey Overview
+
+This report documents the rough draft of the Qualtrics survey titled **Jimenez, Carmen - Survey of Educational Needs of MR Professionals**. The survey remains in Draft status and was not activated or distributed.
+
+# Collaboration Evidence
+
+The Qualtrics project was shared with Dr. Jae Jung (`jmjung`) with all available collaboration permissions enabled.
+
+![Qualtrics collaboration settings showing Jae Jung as a collaborator.](images/collaboration.png){width="100%"}
+
+# Beginning of Survey
+
+The beginning of the survey contains the research information and consent question. Respondents who select that they do not wish to participate are directed to the end of the survey.
+
+![Beginning of the Qualtrics survey and consent question.](images/survey-beginning.png){width="100%"}
+
+# Middle of Survey
+
+The middle portion introduces Part 1 and asks respondents about their market research experience.
+
+![Middle section of the survey.](images/survey-middle.png){width="100%"}
+
+# End of Survey
+
+The survey ends with a confirmation message indicating that the response has been recorded.
+
+![End-of-survey confirmation.](images/survey-end.png){width="100%"}
+
+# Appendix
+
+- [GitHub Repository](https://github.com/carmenjimenez97/Jimenez-Carmen-Qualtrics-Survey)
+- [GitHub Pages](https://carmenjimenez97.github.io/Jimenez-Carmen-Qualtrics-Survey/)
